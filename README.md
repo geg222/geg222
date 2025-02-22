@@ -28,11 +28,7 @@
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=geg222&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geg222&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
-           /> </div> 
-    </div>
+
     
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=geg222&bg_color=60,b27938,948f91&title_color=2d2a2a&text_color=2d2a2a"
