@@ -23,9 +23,17 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <br/>
+          <br/><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=geg222&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geg222&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
+           /> </div> 
+    </div>
+    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=geg222&bg_color=60,b27938,948f91&title_color=2d2a2a&text_color=2d2a2a"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geg222&layout=compact&bg_color=60,b27938,948f91&title_color=2d2a2a&text_color=2d2a2a"
