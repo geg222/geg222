@@ -9,6 +9,8 @@
   <br/>
   <br/>
 
+  
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
@@ -33,7 +35,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=geg222&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geg222&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geg222&count_private=true&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"
            /> </div> 
     </div>
     
