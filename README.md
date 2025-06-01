@@ -1,5 +1,3 @@
-![welcome](https://github.com/user-attachments/assets/d4ec1832-6a74-4338-ac80-2b6983edad33)
-
 
 ## 👀About me
 🎓 한성대학교 컴퓨터공학부
