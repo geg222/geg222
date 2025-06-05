@@ -13,13 +13,10 @@ AI 기술과 LLM, RAG 기반 시스템 설계까지 경험하고 있습니다.
 ## 🧰 Tech Stack
 
 ### 💡 Frontend
-- React, TypeScript, Styled-Components, Tailwind  
-- Zustand, React Query, Chart.js, Framer Motion  
+- React, TypeScript, Styled-Components, Tailwind   
 
 ### 🔧 Backend
 - **Node.js (Express)** / **Spring Boot (JPA)**  
-- REST API, JWT, Swagger, Redis, AWS S3  
-- **Database**: MySQL, PostgreSQL, MongoDB, Firestore  
 
 ### 🤖 AI & LLM
 - LangChain, OpenAI API, RAG, Pinecone, FastAPI
