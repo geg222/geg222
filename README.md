@@ -3,12 +3,12 @@ Node.js와 Spring Boot 기반 백엔드, React 기반 프론트엔드 구현이 
 AI 기술과 LLM, RAG 기반 시스템 설계까지 경험하고 있습니다.  
 서비스의 기획부터 개발, 배포, 유지보수까지 전 주기를 경험하고 있습니다.  
 
----
+
 
 ## 📫 Contact
 📧 Email: junyeongwon872@gmail.com
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -21,9 +21,9 @@ AI 기술과 LLM, RAG 기반 시스템 설계까지 경험하고 있습니다.
 ### 🤖 AI & LLM
 - LangChain, OpenAI API, RAG, Pinecone, FastAPI
 
----
 
----
+
+
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
