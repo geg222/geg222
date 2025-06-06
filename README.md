@@ -37,6 +37,6 @@ AI 기술과 LLM, RAG 기반 시스템 설계까지 경험하고 있습니다.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=geg222&theme=react-dark&bg_color=20232a&hide_border=true&line=bb86fc&color=c77dff&point=e0aaff&area=9d4edd" width="94%"/>
 
----
+
 
 > ✨ 끝까지 책임지는 개발자, 끊임없이 성장하는 AI 백엔드 엔지니어를 목표로 하고 있습니다.
