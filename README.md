@@ -33,6 +33,17 @@ AI 기술과 LLM, RAG 기반 시스템 설계까지 경험하고 있습니다.
   </div>
 </div>
 
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/geg222"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=geg222&theme=react-dark&bg_color=20232a&hide_border=true&line=bb86fc&color=c77dff&point=e0aaff&area=9d4edd" width="94%"/>
